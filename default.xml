@@ -16,7 +16,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="CyanogenMod/android_build">
+  <project path="build" name="scotthartbti/platform_build" revision="jb42">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
