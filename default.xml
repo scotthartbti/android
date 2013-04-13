@@ -104,6 +104,7 @@
   <project path="external/ipsec-tools" name="CyanogenMod/android_external_ipsec-tools" />
   <project path="external/iptables" name="CyanogenMod/android_external_iptables" />
   <project path="external/jack" name="CyanogenMod/android_external_jack" />
+  <project path="external/jbirdvegas/mGerrit" name="JBirdVegas/external_jbirdvegas_mGerrit" remote="github" revision="master" /> 
   <project path="external/javasqlite" name="CyanogenMod/android_external_javasqlite" />
   <project path="external/javassist" name="CyanogenMod/android_external_javassist" />
   <project path="external/jdiff" name="CyanogenMod/android_external_jdiff" />
