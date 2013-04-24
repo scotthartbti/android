@@ -322,7 +322,7 @@
   <project path="packages/providers/ContactsProvider" name="scotthartbti/android_packages_providers_ContactsProvider" revision="jb42" />
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" />
   <project path="packages/providers/DrmProvider" name="CyanogenMod/android_packages_providers_DrmProvider" />
-  <project path="packages/providers/MediaProvider" name="CyanogenMod/android_packages_providers_MediaProvider" />
+  <project path="packages/providers/MediaProvider" name="scotthartbti/packages_providers_MediaProvider" revision="jb42" />
   <project path="packages/providers/PartnerBookmarksProvider" name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" />
