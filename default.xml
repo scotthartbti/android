@@ -292,7 +292,7 @@
   <project path="packages/apps/LegacyCamera" name="CyanogenMod/android_packages_apps_LegacyCamera" />
   <project path="packages/apps/LockClock" name="scotthartbti/android_packages_apps_LockClock" revision="jb422" />
   <project path="packages/apps/Mms" name="scotthartbti/android_packages_apps_Mms" revision="jb4222" />
-  <project path="packages/apps/HALO" name="scotthartbti/android_packages_apps_HALO" revision="jb4222" />
+  <project path="packages/apps/HALO" name="scotthartbti/android_packages_apps_HALO" revision="jb42" />
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
