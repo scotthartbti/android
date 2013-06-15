@@ -292,6 +292,7 @@
   <project path="packages/apps/LegacyCamera" name="CyanogenMod/android_packages_apps_LegacyCamera" />
   <project path="packages/apps/LockClock" name="scotthartbti/android_packages_apps_LockClock" revision="jb422" />
   <project path="packages/apps/Mms" name="scotthartbti/android_packages_apps_Mms" revision="jb4222" />
+  <project path="packages/apps/HALO" name="scotthartbti/android_packages_apps_HALO" revision="jb4222" />
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
@@ -374,8 +375,8 @@
   <project path="tools/motodev" name="platform/tools/motodev" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="vendor/cm" name="scotthartbti/proprietary_vendor_cm" revision="jb42" />
   <project path="vendor/qcom/opensource/v8" name="CyanogenMod/android_vendor_qcom_opensource_v8" />
-  <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
+  <project path="vendor/tmobile/apps/ThemeChooser" name="scotthartbti/vendor_tmobile_apps_ThemeChooser" revision="jb42" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="scotthartbti/vendor_tmobile_libs_com.tmobile.themes" revision="jb42" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="scotthartbti/vendor_tmobile_providers_ThemeManager" revision="jb42" />
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 </manifest>
