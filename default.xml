@@ -270,6 +270,7 @@
   <project path="libnativehelper" name="CyanogenMod/android_libnativehelper" />
   <project path="ndk" name="platform/ndk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="packages/apps/Apollo" name="CyanogenMod/android_packages_apps_Apollo" />
+  <project path="packages/apps/Babel" name="CyanogenMod/android_packages_apps_Babel" />
   <project path="packages/apps/BasicSmsReceiver" name="CyanogenMod/android_packages_apps_BasicSmsReceiver" />
   <project path="packages/apps/Bluetooth" name="scotthartbti/android_packages_apps_Bluetooth" revision="jb42" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
