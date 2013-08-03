@@ -293,7 +293,6 @@
   <project path="packages/apps/Calculator" name="scotthartbti/android_packages_apps_Calculator" revision="jb43" />
   <project path="packages/apps/StalkExplorer" name="scotthartbti/android_packages_apps_StalkExplorer" revision="jb43" />
   <project path="packages/apps/Calendar" name="scotthartbti/android_packages_apps_Calendar" revision="jb43" />
-  <project path="packages/apps/Camera" name="scotthartbti/android_packages_apps_Camera" revision="jb43" />
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
   <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
