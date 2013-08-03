@@ -17,7 +17,7 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="scotthartbti/platform_build" revision="jb43" groups="pdk" >
+  <project path="build" name="scotthartbti/platform_build" revision="jb43" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
@@ -229,7 +229,7 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" groups="pdk" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
-  <project path="frameworks/av" name="scotthartbti/android_frameworks_av" revision="jb43" groups="pdk" />
+  <project path="frameworks/av" name="scotthartbti/android_frameworks_av" revision="jb43" />
   <project path="frameworks/base" name="scotthartbti/android_frameworks_base" revision="jb43" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
@@ -237,7 +237,7 @@
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
-  <project path="frameworks/native" name="scotthartbti/frameworks_native" revision="jb43" groups="pdk" />
+  <project path="frameworks/native" name="scotthartbti/frameworks_native" revision="jb43" />
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/carddav" name="CyanogenMod/android_frameworks_opt_carddav" />
   <project path="frameworks/opt/colorpicker" name="CyanogenMod/android_frameworks_opt_colorpicker" />
@@ -249,7 +249,7 @@
   <project path="frameworks/opt/net/voip" name="CyanogenMod/android_frameworks_opt_net_voip" />
   <project path="frameworks/opt/photoviewer" name="CyanogenMod/android_frameworks_opt_photoviewer" />
   <project path="frameworks/opt/timezonepicker" name="CyanogenMod/android_frameworks_opt_timezonepicker" />
-  <project path="frameworks/opt/telephony" name="scotthartbti/android_frameworks_opt_telephony" revision="jb43" groups="pdk" />
+  <project path="frameworks/opt/telephony" name="scotthartbti/android_frameworks_opt_telephony" revision="jb43" />
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" />
   <project path="frameworks/rs" name="CyanogenMod/android_frameworks_rs" groups="pdk" />
   <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" />
@@ -396,7 +396,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" remote="aosp" revision="refs/tags/android-4.3_r2.1" groups="pdk,tools" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" groups="pdk" />
-  <project path="system/core" name="scotthartbti/platform_system_core" revision="jb43" groups="pdk" />
+  <project path="system/core" name="scotthartbti/platform_system_core" revision="jb43" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" groups="pdk" />
   <project path="system/media" name="CyanogenMod/android_system_media" groups="pdk" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" groups="pdk" />
