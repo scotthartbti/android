@@ -86,6 +86,8 @@
   <project path="external/expat" name="CyanogenMod/android_external_expat" groups="pdk" />
   <project path="external/eyes-free" name="CyanogenMod/android_external_eyes-free" />
   <project path="external/fdlibm" name="CyanogenMod/android_external_fdlibm" />
+  <project path="external/exfat" name="CyanogenMod/android_external_exfat" />
+  <project path="external/fuse" name="CyanogenMod/android_external_fuse" />
   <project path="external/flac" name="CyanogenMod/android_external_flac" groups="pdk" />
   <project path="external/Focal" name="CyanogenMod/android_external_Focal" />
   <project path="external/freetype" name="CyanogenMod/android_external_freetype" groups="pdk" />
@@ -260,6 +262,7 @@
   <project path="hardware/akm" name="CyanogenMod/android_hardware_akm" groups="pdk" />
   <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" groups="broadcom_wlan" />
+  <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" groups="qcom" />
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" groups="invensense" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" groups="pdk" />
