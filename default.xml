@@ -294,6 +294,7 @@
   <project path="packages/apps/Bluetooth" name="scotthartbti/android_packages_apps_Bluetooth" revision="jb43" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="scotthartbti/android_packages_apps_Calculator" revision="jb43" />
+  <project path="packages/apps/Camera" name="scotthartbti/android_packages_apps_Camera" revision="jb43" />
   <project path="packages/apps/StalkExplorer" name="scotthartbti/android_packages_apps_StalkExplorer" revision="jb43" />
   <project path="packages/apps/Calendar" name="scotthartbti/android_packages_apps_Calendar" revision="jb43" />
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
@@ -303,8 +304,8 @@
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="scotthartbti/android_packages_apps_Contacts" revision="jb43" />
   <project path="packages/apps/DeskClock" name="scotthartbti/android_packages_apps_DeskClock" revision="jb43" />
-  <project path="packages/apps/ContactsCommon" name="CyanogenMod/android_packages_apps_ContactsCommon" />
-  <project path="packages/apps/Dialer" name="CyanogenMod/android_packages_apps_Dialer" />
+  <project path="packages/apps/ContactsCommon" name="scotthartbti/android_packages_apps_ContactsCommon" revision="jb43" />
+  <project path="packages/apps/Dialer" name="scotthartbti/android_packages_apps_Dialer" revision="jb43" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="scotthartbti/android_packages_apps_Email" revision="jb43" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" />
@@ -314,7 +315,7 @@
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/LockClock" name="scotthartbti/android_packages_apps_LockClock" revision="jb43" />
-  <project path="packages/apps/Mms" name="scotthartbti/android_packages_apps_Mms" revision="jb43" />
+  <project path="packages/apps/Mms" name="scotthartbti/android_packages_apps_Mms" revision="jb431" />
   <project path="packages/apps/HALO" name="scotthartbti/android_packages_apps_HALO" revision="jb43" />
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
