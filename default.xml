@@ -338,7 +338,7 @@
   <project path="packages/apps/Stk" name="CyanogenMod/android_packages_apps_Stk" />
   <project path="packages/apps/Tag" name="CyanogenMod/android_packages_apps_Tag" />
   <project path="packages/apps/Torch" name="scotthartbti/android_packages_apps_Torch" revision="jb43" />
-  <project path="packages/apps/Trebuchet" name="scotthartbti/android_packages_apps_Trebuchet" revision="jb43" />
+  <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" />
   <project path="packages/apps/BeanStalkPapers" name="scotthartbti/android_packages_apps_BeanStalkPapers" revision="jb43" />
   <project path="packages/apps/DashClock" name="scotthartbti/android_packages_apps_DashClock" revision="jb43" />
   <project path="packages/apps/VideoEditor" name="CyanogenMod/android_packages_apps_VideoEditor" />
