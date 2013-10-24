@@ -321,7 +321,7 @@
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/LockClock" name="scotthartbti/android_packages_apps_LockClock" revision="jb43" />
-  <project path="packages/apps/Mms" name="scotthartbti/android_packages_apps_Mms" revision="jb431" />
+  <project path="packages/apps/Mms" name="scotthartbti/android_packages_apps_Mms" revision="jb43" />
   <project path="packages/apps/HALO" name="scotthartbti/android_packages_apps_HALO" revision="jb43" />
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
