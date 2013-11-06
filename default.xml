@@ -17,11 +17,11 @@
            sync-c="true"
            sync-j="4" />
 
-  <project path="build" name="scotthartbti/platform_build" revision="jb43" >
+  <project path="build" name="scotthartbti/platform_build" revision="kk44" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="scotthartbti/android" revision="jb43" />
+  <project path="android" name="scotthartbti/android" revision="kk44" />
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
   <project path="art" name="platform/art" remote="aosp" revision="refs/tags/android-4.4_r1" />
@@ -268,15 +268,15 @@
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" groups="pdk" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" groups="pdk" />
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
-  <project path="frameworks/av" name="scotthartbti/android_frameworks_av" revision="jb43" />
-  <project path="frameworks/base" name="scotthartbti/android_frameworks_base" revision="jb43" />
+  <project path="frameworks/av" name="scotthartbti/android_frameworks_av" revision="kk44" />
+  <project path="frameworks/base" name="scotthartbti/android_frameworks_base" revision="kk44" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" groups="pdk" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
-  <project path="frameworks/native" name="scotthartbti/frameworks_native" revision="jb43" />
+  <project path="frameworks/native" name="scotthartbti/frameworks_native" revision="kk44" />
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/carddav" name="CyanogenMod/android_frameworks_opt_carddav" />
   <project path="frameworks/opt/colorpicker" name="CyanogenMod/android_frameworks_opt_colorpicker" />
@@ -341,15 +341,15 @@
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
   <project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" />
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
-  <project path="packages/apps/Contacts" name="scotthartbti/android_packages_apps_Contacts" revision="jb43" />
-  <project path="packages/apps/DeskClock" name="scotthartbti/android_packages_apps_DeskClock" revision="jb43" />
-  <project path="packages/apps/ContactsCommon" name="scotthartbti/android_packages_apps_ContactsCommon" revision="jb43" />
-  <project path="packages/apps/Dialer" name="scotthartbti/android_packages_apps_Dialer" revision="jb43" />
+  <project path="packages/apps/Contacts" name="scotthartbti/android_packages_apps_Contacts" revision="kk44" />
+  <project path="packages/apps/DeskClock" name="scotthartbti/android_packages_apps_DeskClock" revision="kk44" />
+  <project path="packages/apps/ContactsCommon" name="scotthartbti/android_packages_apps_ContactsCommon" revision="kk44" />
+  <project path="packages/apps/Dialer" name="scotthartbti/android_packages_apps_Dialer" revision="kk44" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
-  <project path="packages/apps/Email" name="scotthartbti/android_packages_apps_Email" revision="jb43" />
+  <project path="packages/apps/Email" name="scotthartbti/android_packages_apps_Email" revision="kk44" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" />
   <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" />
-  <project path="packages/apps/Gallery2" name="scotthartbti/android_packages_apps_Gallery2" revision="jb43" />
+  <project path="packages/apps/Gallery2" name="scotthartbti/android_packages_apps_Gallery2" revision="kk44" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/InCallUI" name="CyanogenMod/android_packages_apps_InCallUI" />
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
@@ -359,11 +359,10 @@
   <project path="packages/apps/Nfc" name="CyanogenMod/android_packages_apps_Nfc" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-4.4_r1" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
-  <project path="packages/apps/PermissionsManager" name="scotthartbti/android_packages_apps_PermissionsManager" revision="jb43" />
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
-  <project path="packages/apps/Settings" name="scotthartbti/android_packages_apps_Settings" revision="jb43" />
+  <project path="packages/apps/Settings" name="scotthartbti/android_packages_apps_Settings" revision="kk44" />
   <project path="packages/apps/SmartCardService" name="CyanogenMod/android_packages_apps_SmartCardService" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpeechRecorder" name="CyanogenMod/android_packages_apps_SpeechRecorder" />
@@ -377,12 +376,12 @@
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <!-- Removed pending the re-addition of the synthetic SMS APIs project path="packages/apps/VoicePlus" name="CyanogenMod/android_packages_apps_VoicePlus" /-->
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
-  <project path="packages/inputmethods/LatinIME" name="scotthartbti/android_packages_inputmethods_LatinIME" revision="jb43" />
+  <project path="packages/inputmethods/LatinIME" name="scotthartbti/android_packages_inputmethods_LatinIME" revision="kk44" />
   <project path="packages/inputmethods/OpenWnn" name="CyanogenMod/android_packages_inputmethods_OpenWnn" />
   <project path="packages/inputmethods/PinyinIME" name="CyanogenMod/android_packages_inputmethods_PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" />
-  <project path="packages/providers/ContactsProvider" name="scotthartbti/android_packages_providers_ContactsProvider" revision="jb43" />
+  <project path="packages/providers/ContactsProvider" name="scotthartbti/android_packages_providers_ContactsProvider" revision="kk44" />
   <project path="packages/providers/DownloadProvider" name="CyanogenMod/android_packages_providers_DownloadProvider" />
   <project path="packages/providers/MediaProvider" name="scotthartbti/packages_providers_MediaProvider" revision="kk44" />
   <project path="packages/providers/PartnerBookmarksProvider" name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" />
