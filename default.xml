@@ -292,7 +292,7 @@
   <project path="frameworks/opt/mms" name="CyanogenMod/android_frameworks_opt_mms" />
   <project path="frameworks/opt/net/voip" name="CyanogenMod/android_frameworks_opt_net_voip" />
   <project path="frameworks/opt/photoviewer" name="CyanogenMod/android_frameworks_opt_photoviewer" />
-  <project path="frameworks/opt/timezonepicker" name="CyanogenMod/android_frameworks_opt_timezonepicker" />
+  <project path="frameworks/opt/timezonepicker" name="scotthartbti/android_frameworks_opt_timezonepicker" revision="kk44" />
   <project path="frameworks/opt/telephony" name="scotthartbti/android_frameworks_opt_telephony" revision="kk44" />
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" />
   <project path="frameworks/rs" name="CyanogenMod/android_frameworks_rs" groups="pdk" />
@@ -338,7 +338,7 @@
   <project path="packages/apps/Bluetooth" name="CyanogenMod/android_packages_apps_Bluetooth" />
   <project path="packages/apps/BluetoothExt" name="CyanogenMod/android_packages_apps_BluetoothExt" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
-  <project path="packages/apps/Calculator" name="CyanogenMod/android_packages_apps_Calculator" />
+  <project path="packages/apps/Calculator" name="scotthartbti/android_packages_apps_Calculator" revision="kk44" />
   <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
   <project path="packages/apps/StalkExplorer" name="scotthartbti/android_packages_apps_StalkExplorer" revision="kk44" />
   <project path="packages/apps/Camera2" name="scotthartbti/android_packages_apps_Camera2" revision="kk44" />
@@ -348,8 +348,8 @@
   <project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" />
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="scotthartbti/android_packages_apps_Contacts" revision="kk44" />
-  <project path="packages/apps/ContactsCommon" name="CyanogenMod/android_packages_apps_ContactsCommon" />
-  <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
+  <project path="packages/apps/ContactsCommon" name="scotthartbti/android_packages_apps_ContactsCommon" revision="kk44" />
+  <project path="packages/apps/DeskClock" name="scotthartbti/android_packages_apps_DeskClock" revision="kk44" />
   <project path="packages/apps/Dialer" name="scotthartbti/android_packages_apps_Dialer" revision="kk44" />
   <project path="packages/apps/DSPManager" name="scotthartbti/android_packages_apps_DSPManager" revision="kk44" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
@@ -381,7 +381,7 @@
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/apps/VoicePlus" name="CyanogenMod/android_packages_apps_VoicePlus" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
-  <project path="packages/inputmethods/LatinIME" name="CyanogenMod/android_packages_inputmethods_LatinIME" />
+  <project path="packages/inputmethods/LatinIME" name="scotthartbti/android_packages_inputmethods_LatinIME" revision="kk44" />
   <project path="packages/inputmethods/OpenWnn" name="CyanogenMod/android_packages_inputmethods_OpenWnn" />
   <project path="packages/inputmethods/PinyinIME" name="CyanogenMod/android_packages_inputmethods_PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
