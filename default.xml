@@ -339,7 +339,7 @@
   <project path="packages/apps/BluetoothExt" name="CyanogenMod/android_packages_apps_BluetoothExt" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/Calculator" name="scotthartbti/android_packages_apps_Calculator" revision="kk44" />
-  <project path="packages/apps/Calendar" name="CyanogenMod/android_packages_apps_Calendar" />
+  <project path="packages/apps/Calendar" name="scotthartbti/android_packages_apps_Calendar" revision="kk44" />
   <project path="packages/apps/StalkExplorer" name="scotthartbti/android_packages_apps_StalkExplorer" revision="kk44" />
   <project path="packages/apps/Camera2" name="scotthartbti/android_packages_apps_Camera2" revision="kk44" />
   <project path="packages/apps/CellBroadcastReceiver" name="CyanogenMod/android_packages_apps_CellBroadcastReceiver" />
