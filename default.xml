@@ -284,7 +284,7 @@
   <project path="frameworks/native" name="scotthartbti/frameworks_native" revision="kk44" />
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/carddav" name="CyanogenMod/android_frameworks_opt_carddav" />
-  <project path="frameworks/opt/cards" name="beanstalk/frameworks_opt_cards" revision="kk44" />
+  <project path="frameworks/opt/cards" name="scotthartbti/frameworks_opt_cards" revision="kk44" />
   <project path="frameworks/opt/colorpicker" name="CyanogenMod/android_frameworks_opt_colorpicker" />
   <project path="frameworks/opt/datetimepicker" name="scotthartbti/android_frameworks_opt_datetimepicker" revision="kk44" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
