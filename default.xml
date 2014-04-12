@@ -240,7 +240,7 @@
   <project path="external/sepolicy" name="CyanogenMod/android_external_sepolicy" groups="pdk" />
   <project path="external/sfntly" name="platform/external/sfntly" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="external/sil-fonts" name="platform/external/sil-fonts" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
-  <project path="external/skia" name="CyanogenMod/android_external_skia" />
+  <project path="external/skia" name="scotthartbti/android_external_skia" revision="kk44" />
   <project path="external/smack" name="platform/external/smack" remote="aosp" revision="refs/tags/android-4.4.2_r2" />
   <project path="external/smali" name="CyanogenMod/android_external_smali" />
   <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" groups="pdk" />
@@ -481,6 +481,6 @@
   <project path="vendor/cm" name="scotthartbti/proprietary_vendor_cm" revision="kk44" />
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
+  <project path="vendor/tmobile/libs/com.tmobile.themes" name="scotthartbti/android_vendor_tmobile_libs_com.tmobile.themes" revision="kk44" />
+  <project path="vendor/tmobile/providers/ThemeManager" name="scotthartbti/android_vendor_tmobile_providers_ThemeManager" revision="kk44" />
 </manifest>
