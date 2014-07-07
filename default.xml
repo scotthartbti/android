@@ -285,6 +285,11 @@
   <project path="external/zxing" name="CyanogenMod/android_external_zxing" />
   <project path="frameworks/av" name="scotthartbti/android_frameworks_av" revision="kk44" />
   <project path="frameworks/base" name="scotthartbti/android_frameworks_base" revision="kk44" />
+  <project path="external/jsr308" name="CyanogenMod/android_external_jsr308" />
+  <project path="external/jsr330" name="CyanogenMod/android_external_jsr330" />
+  <project path="external/square/javawriter" name="CyanogenMod/android_external_square_javawriter" />
+  <project path="external/square/dagger" name="CyanogenMod/android_external_square_dagger" />
+  <project path="external/JakeWharton/butterknife" name="CyanogenMod/android_external_JakeWharton_butterknife" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" groups="pdk" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" groups="pdk" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" groups="pdk" />
