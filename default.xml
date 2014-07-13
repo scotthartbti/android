@@ -371,7 +371,7 @@
   <project path="packages/apps/Dialer" name="scotthartbti/android_packages_apps_Dialer" revision="kk44" />
   <project path="packages/apps/DSPManager" name="scotthartbti/android_packages_apps_DSPManager" revision="kk44" />
   <project path="packages/apps/Email" name="scotthartbti/android_packages_apps_Email" revision="kk44" />
-  <project path="packages/apps/EOSWeather" name="AICP/packages_apps_EOSWeather" remote="aicp" revision="kitkat" />
+  <project path="packages/apps/EOSWeather" name="scotthartbti/packages_apps_EOSWeather" revision="kk44" />
   <project path="packages/apps/Exchange" name="CyanogenMod/android_packages_apps_Exchange" />
   <project path="packages/apps/Gallery2" name="scotthartbti/android_packages_apps_Gallery2" revision="kk44" />
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
