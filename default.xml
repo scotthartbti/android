@@ -400,6 +400,7 @@
   <project path="packages/apps/BeanStalkPapers" name="scotthartbti/android_packages_apps_BeanStalkPapers" revision="kk44" />
   <project path="packages/apps/DashClock" name="scotthartbti/android_packages_apps_DashClock" revision="kk44" />
   <project path="packages/apps/UnifiedEmail" name="scotthartbti/android_packages_apps_UnifiedEmail" revision="kk44" />
+  <project path="packages/apps/ThemeChooser" name="CyanogenMod/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/Torch" name="scotthartbti/android_packages_apps_Torch" revision="kk44" />
   <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" />
   <project path="packages/apps/VideoEditor" name="CyanogenMod/android_packages_apps_VideoEditor" />
@@ -416,6 +417,7 @@
   <project path="packages/providers/MediaProvider" name="scotthartbti/packages_providers_MediaProvider" revision="kk44" />
   <project path="packages/providers/PartnerBookmarksProvider" name="CyanogenMod/android_packages_providers_PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="scotthartbti/android_packages_providers_TelephonyProvider" revision="kk44" />
+  <project path="packages/providers/ThemesProvider" name="CyanogenMod/android_packages_providers_ThemesProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" />
   <project path="packages/screensavers/Basic" name="CyanogenMod/android_packages_screensavers_Basic" />
   <project path="packages/screensavers/PhotoTable" name="CyanogenMod/android_packages_screensavers_PhotoTable" />
@@ -497,7 +499,4 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="vendor/cm" name="scotthartbti/proprietary_vendor_cm" revision="kk44" />
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
-  <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
-  <project path="vendor/tmobile/libs/com.tmobile.themes" name="scotthartbti/android_vendor_tmobile_libs_com.tmobile.themes" revision="kk44" />
-  <project path="vendor/tmobile/providers/ThemeManager" name="scotthartbti/android_vendor_tmobile_providers_ThemeManager" revision="kk44" />
 </manifest>
