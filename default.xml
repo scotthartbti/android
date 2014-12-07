@@ -436,6 +436,7 @@
   <project path="packages/apps/OMA-DM" name="CyanogenMod/android_packages_apps_OMA-DM" />
   <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" />
+  <project path="packages/apps/PerformanceControl" name="omnirom/android_packages_apps_PerformanceControl" revision="android-5.0" />
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/Settings" name="scotthartbti/android_packages_apps_Settings" revision="lp5.0" />
