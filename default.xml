@@ -35,7 +35,6 @@
   <project path="external/bsdiff" name="platform/external/bsdiff" groups="pdk" />
   <project path="external/busybox" name="android_external_busybox" remote="omnirom" revision="android-6.0" />
   <project path="external/bzip2" name="platform/external/bzip2" groups="pdk" />
-  <project path="external/checkpolicy" name="platform/external/checkpolicy" groups="pdk" />
   <project path="external/clang" name="android_external_clang" remote="omnirom" revision="android-6.0" groups="pdk" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" groups="pdk" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs" remote="omnirom" revision="android-6.0" groups="pdk" />
@@ -83,7 +82,6 @@
   <project path="external/scrypt" name="platform/external/scrypt" groups="pdk" />
   <project path="external/sepolicy" name="android_external_sepolicy" remote="omnirom" revision="android-6.0" groups="pdk" />
   <project path="external/skia" name="android_external_skia" remote="omnirom" revision="android-6.0" groups="pdk-cw-fs,qcom_msm8x26" />
-  <project path="external/smack" name="platform/external/smack" groups="pdk-cw-fs" />
   <project path="external/sqlite" name="platform/external/sqlite" groups="pdk" />
   <project path="external/srtp" name="platform/external/srtp" groups="pdk-cw-fs" />
   <project path="external/stlport" name="platform/external/stlport" groups="pdk" />
