@@ -296,7 +296,7 @@
   <project path="packages/wallpapers/PhaseBeam" name="CyanogenMod/android_packages_wallpapers_PhaseBeam" groups="pdk-fs" revision="staging/cm-13.0+r22" />
   <project path="packages/wallpapers/PhotoPhase" name="CyanogenMod/android_packages_wallpapers_PhotoPhase" />
   <project path="prebuilts/cmsdk" name="CyanogenMod/android_prebuilts_cmsdk" clone-depth="1" revision="master" />
-  <project path="system/bt" name="CyanogenMod/android_system_bt" groups="pdk" revision="staging/cm-13.0+r22" />
+  <project path="system/bt" name="scotthartbti/android_system_bt" revision="bs6" />
   <project path="system/core" name="scotthartbti/platform_system_core" revision="bs6" />
   <project path="system/extras" name="CyanogenMod/android_system_extras" groups="pdk" revision="staging/cm-13.0+r22" />
   <project path="system/extras/su" name="CyanogenMod/android_system_extras_su" />
