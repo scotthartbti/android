@@ -279,11 +279,6 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" groups="pdk" />
   <project path="vendor/beanstalk" name="scotthartbti/android_vendor_beanstalk" revision="bs6" />
   <project path="vendor/cmsdk" name="scotthartbti/vendor_cmsdk" revision="bs6" />
-
-<!-- CMSDK SAMPLES -->
-  <project path="vendor/cmsdk/samples/weatherproviderservice" name="CyanogenMod/android_packages_apps_WundergroundWeatherProvider" />
-<!-- END CMSDK SAMPLES -->
-
 <!-- END CYANOGENMOD -->
 
 <!-- BEGIN AOSP -->
