@@ -222,7 +222,7 @@
   <project path="packages/apps/Messaging" name="CyanogenMod/android_packages_apps_Messaging" groups="pdk-fs" />
   <project path="packages/apps/Nfc" name="scotthartbti/android_packages_apps_Nfc" revision="bs6" />
   <project path="packages/apps/OmniSwitch" name="scotthartbti/android_packages_apps_OmniSwitch" revision="bs6" />
-  <project path="packages/apps/PackageInstaller" name="CyanogenMod/android_packages_apps_PackageInstaller" groups="pdk-fs" />
+  <project path="packages/apps/PackageInstaller" name="scotthartbti/android_packages_apps_PackageInstaller" revision="bs6" />
   <project path="packages/apps/PhoneCommon" name="CyanogenMod/android_packages_apps_PhoneCommon" groups="pdk-cw-fs,pdk-fs" />
   <project path="packages/apps/Profiles" name="CyanogenMod/android_packages_apps_Profiles" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" groups="pdk-fs" />
