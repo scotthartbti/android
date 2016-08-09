@@ -24,7 +24,7 @@
   </project>
   <project path="android" name="scotthartbti/android" revision="bs6" />
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
-  <project path="art" name="scotthartbti/android_art" revision="bs6" />
+  <project path="art" name="CyanogenMod/android_art" groups="pdk" />
   <project path="bionic" name="scotthartbti/android_bionic" revision="bs6" />
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
   <project path="cts" name="platform/cts" groups="cts,pdk-cw-fs,pdk-fs" revision="marshmallow-cts-release" remote="aosp" />
