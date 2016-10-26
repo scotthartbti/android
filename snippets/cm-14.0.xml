@@ -2,8 +2,8 @@
 <manifest>
 
   <!-- CyanogenMod additions -->
-  <project path="android" name="scotthartbti/android" revision="bs7" />
-  <project path="external/DUtils" name="scotthartbti/external_DUtils" revision="bs7" />
+  <project path="android" name="scotthartbti/android" revision="bs7.1" />
+  <project path="external/DUtils" name="scotthartbti/external_DUtils" revision="bs7.1" />
   <project path="external/ahbottomnavigation" name="CyanogenMod/android_external_ahbottomnavigation" />
   <project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" />
   <project path="external/bash" name="CyanogenMod/android_external_bash" />
@@ -41,13 +41,13 @@
   <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
   <project path="packages/apps/AudioFX" name="CyanogenMod/android_packages_apps_AudioFX" />
-  <project path="packages/apps/BeanStalkPapers" name="scotthartbti/android_packages_apps_BeanStalkPapers" revision="bs7" />
-  <project path="packages/apps/DUI" name="scotthartbti/android_packages_apps_DUI" revision="bs7" />
-  <project path="packages/apps/OmniSwitch" name="scotthartbti/android_packages_apps_OmniSwitch" revision="bs7" />
+  <project path="packages/apps/BeanStalkPapers" name="scotthartbti/android_packages_apps_BeanStalkPapers" revision="bs7.1" />
+  <project path="packages/apps/DUI" name="scotthartbti/android_packages_apps_DUI" revision="bs7.1" />
+  <project path="packages/apps/OmniSwitch" name="scotthartbti/android_packages_apps_OmniSwitch" revision="bs7.1" />
   <project path="packages/apps/Browser" name="CyanogenMod/android_packages_apps_Browser" />
   <project path="packages/apps/CMBugReport" name="CyanogenMod/android_packages_apps_CMBugreport" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
-  <project path="packages/apps/CMParts" name="scotthartbti/android_packages_apps_CMParts" revision="bs7" />
+  <project path="packages/apps/CMParts" name="scotthartbti/android_packages_apps_CMParts" revision="bs7.1" />
   <project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" />
   <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Eleven" name="CyanogenMod/android_packages_apps_Eleven" />
@@ -74,8 +74,8 @@
   <project path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8" groups="pdk,darwin,arm" clone-depth="1" remote="aosp" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" groups="pdk,linux,arm" clone-depth="1" remote="aosp" revision="master" />
   <project path="system/extras/su" name="CyanogenMod/android_system_extras_su" />
-  <project path="vendor/beanstalk" name="scotthartbti/android_vendor_beanstalk" revision="bs7" />
-  <project path="vendor/cmsdk" name="scotthartbti/vendor_cmsdk" revision="bs7" />
+  <project path="vendor/beanstalk" name="scotthartbti/android_vendor_beanstalk" revision="bs7.1" />
+  <project path="vendor/cmsdk" name="scotthartbti/vendor_cmsdk" revision="bs7.1" />
   <project path="vendor/cmsdk/samples/weatherproviderservice/OpenWeatherMapProvider" name="CyanogenMod/android_packages_apps_OpenWeatherMapProvider" />
   <project path="vendor/cmsdk/samples/weatherproviderservice/WundergroundWeatherProvider" name="CyanogenMod/android_packages_apps_WundergroundWeatherProvider" />
   <project path="vendor/cmsdk/samples/weatherproviderservice/YahooWeatherProvider" name="CyanogenMod/android_packages_apps_YahooWeatherProvider" />
