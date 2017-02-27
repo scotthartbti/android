@@ -300,7 +300,7 @@
   <project path="external/zlib" name="LineageOS/android_external_zlib" groups="pdk" />
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
-  <project path="frameworks/av" name="LineageOS/android_frameworks_av" groups="pdk" />
+  <project path="frameworks/av" name="scotthartbti/android_frameworks_av" revision="bs7.1" />
   <project path="frameworks/base" name="scotthartbti/android_frameworks_base" revision="bs7.1" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" />
@@ -478,7 +478,7 @@
   <project path="system/firewalld" name="platform/system/firewalld" remote="aosp" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
   <project path="system/keymaster" name="LineageOS/android_system_keymaster" groups="pdk" />
-  <project path="system/media" name="LineageOS/android_system_media" groups="pdk" />
+  <project path="system/media" name="scotthartbti/android_system_media" revision="bs7.1" />
   <project path="system/nativepower" name="platform/system/nativepower" remote="aosp" />
   <project path="system/netd" name="LineageOS/android_system_netd" groups="pdk" />
   <project path="system/nvram" name="platform/system/nvram" remote="aosp" />
