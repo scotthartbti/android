@@ -36,7 +36,7 @@
   <project path="hardware/ti/omap4" name="LineageOS/android_hardware_ti_omap4" />
   <project path="hardware/ti/wlan" name="LineageOS/android_hardware_ti_wlan" />
   <project path="hardware/ti/wpan" name="LineageOS/android_hardware_ti_wpan" />
-  <project path="packages/apps/masquerade" name="substratum/masquerade" revision="n" />
+  <project path="packages/apps/ThemeInterfacer" name="substratum/interfacer" revision="n-rootless" />
   <project path="packages/apps/AudioFX" name="LineageOS/android_packages_apps_AudioFX" />
   <project path="packages/apps/BeanStalkPapers" name="scotthartbti/android_packages_apps_BeanStalkPapers" revision="bs7.1" />
   <project path="packages/apps/DUI" name="scotthartbti/android_packages_apps_DUI" revision="bs7.1" />
