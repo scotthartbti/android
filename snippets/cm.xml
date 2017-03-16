@@ -63,6 +63,7 @@
   <project path="packages/services/CMAudioService" name="LineageOS/android_packages_services_CMAudioService" />
   <project path="packages/services/LiveLockScreenService" name="LineageOS/android_packages_services_LiveLockScreenService" />
   <project path="packages/services/OmniJaws" name="scotthartbti/android_packages_services_OmniJaws" revision="bs7.1" />
+  <project path="prebuilts/build-tools" name="scotthartbti/prebuilts_build-tools" revision="bs7.1"/>
   <project path="packages/services/ThemeManagerService" name="LineageOS/android_packages_services_ThemeManagerService" />
   <project path="packages/services/WeatherService" name="LineageOS/android_packages_services_WeatherService" />
   <project path="packages/themes/HexoLibre" name="LineageOS/android_packages_themes_HexoLibre" groups="themes" />

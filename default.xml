@@ -23,9 +23,9 @@
   <project path="build" name="scotthartbti/platform_build" revision="bs7.1" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="build/blueprint" name="platform/build/blueprint" groups="pdk,tradefed" remote="aosp" />
-  <project path="build/kati" name="LineageOS/android_build_kati" groups="pdk,tradefed" />
-  <project path="build/soong" name="platform/build/soong" groups="pdk,tradefed" remote="aosp" >
+  <project path="build/blueprint" name="scotthartbti/build_blueprint" groups="pdk,tradefed" revision="bs7.1" />
+  <project path="build/kati" name="scotthartbti/android_build_kati" groups="pdk,tradefed" revision="bs7.1" />
+  <project path="build/soong" name="scotthartbti/build_soong" groups="pdk,tradefed" revision="bs7.1" >
     <linkfile src="root.bp" dest="Android.bp" />
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
