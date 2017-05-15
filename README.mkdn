@@ -1,5 +1,25 @@
-LineageOS
+BeanStalk
 ===========
+
+Getting Started
+---------------
+
+To get started with Android/LineageOS/Beanstalk, you'll need to get
+familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
+
+To initialize your local repository using the Beanstalk trees, use a command like this:
+
+    repo init -u git://github.com/scotthartbti/android.git -b bs7.1
+
+Then to sync up:
+
+    repo sync -c --force-broken --force-sync --no-clone-bundle --no-tags
+
+Please see the [LineageOS Wiki](http://wiki.lineageos.org/) for building instructions.
+
+For more information on this Github Organization and how it is structured, 
+please [read the wiki article](http://wiki.lineageos.org/w/Github_Organization)
+
 
 Submitting Patches
 ------------------
@@ -21,30 +41,3 @@ Make your changes and commit with a detailed message, starting with what you are
 Commit your patches in a single commit. Squash multiple commit using this command: git rebase -i HEAD~<# of commits>
 
 To view the status of your and others' patches, visit [LineageOS Code Review](http://review.lineageos.org/)
-
-
-Getting Started
----------------
-
-To get started with Android/LineageOS, you'll need to get
-familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
-
-To initialize your local repository using the LineageOS trees, use a command like this:
-
-    repo init -u git://github.com/LineageOS/android.git -b cm-14.1
-
-Then to sync up:
-
-    repo sync
-
-Please see the [LineageOS Wiki](http://wiki.lineageos.org/) for building instructions.
-
-For more information on this Github Organization and how it is structured, 
-please [read the wiki article](http://wiki.lineageos.org/w/Github_Organization)
-
-Buildbot
---------
-
-All supported devices are built nightly and periodically as changes are committed to ensure the source trees remain buildable.
-
-You can view the current build statuses at [LineageOS Jenkins](http://jenkins.lineageos.org/)
